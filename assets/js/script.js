@@ -4,7 +4,7 @@
       windows: { url: '/downloads/YourApp-1.0.0-Setup.exe' },
       macos:   { url: '/downloads/YourApp-1.0.0.dmg' },
       linux:   { url: '/downloads/YourApp-1.0.0.AppImage' },
-      android: { url: '/downloads/YourApp-1.0.0.apk' }
+      android: { url: 'downloads/QvideoDownloader.apk' }
     }
   };
 
