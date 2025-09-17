@@ -1,9 +1,7 @@
   // ======= CONFIG (Edit these values) =======
   const RELEASE = {
     files: {
-      windows: { url: 'downloads/QvideoDownloader-windows.zip' },
-      macos:   { url: 'downloads/QvideoDownloader-macos.zip' },
-      linux:   { url: 'downloads/QvideoDownloader-linux.zip' },
+      windows: { url: 'downloads/QvideoDownloader.zip' },
       android: { url: 'downloads/QvideoDownloader.apk' }
     }
   };
