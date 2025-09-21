@@ -14,8 +14,6 @@
     const ua = navigator.userAgent || navigator.vendor || window.opera;
     if (/android/i.test(ua)) return 'android';
     if (/windows/i.test(ua)) return 'windows';
-    if (/mac os x|macintosh|darwin/i.test(ua)) return 'macos';
-    if (/linux|x11/i.test(ua)) return 'linux';
     return null;
   }
 
